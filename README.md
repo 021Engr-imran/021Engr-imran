@@ -35,8 +35,3 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/021Engr-imran"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="021Engr-imran" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=012engr-imran&show_icons=true&locale=en&layout=compact" alt="012engr-imran" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=012engr-imran&show_icons=true&locale=en" alt="012engr-imran" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=012engr-imran&" alt="012engr-imran" /></p>
